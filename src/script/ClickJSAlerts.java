@@ -1,5 +1,8 @@
 package script;
 
+import static org.junit.Assert.assertTrue;
+
+import org.junit.Assert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -32,7 +35,7 @@ public class ClickJSAlerts {
         String txtCompare = ResultTxt.getText();
         System.out.println(txtCompare);
         String expectedText = "You clicked: Ok";
-        // Assert.assertEquals(txtCompare,expectedText);
+        Assert.assertEquals(txtCompare, expectedText);
         System.out.println("Result verified ");
         driver.close();
 	}

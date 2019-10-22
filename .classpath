@@ -8,5 +8,8 @@
 	<classpathentry kind="lib" path="C:/sats-selenium/Selenium/libs/okhttp-3.11.0.jar"/>
 	<classpathentry kind="lib" path="C:/sats-selenium/Selenium/libs/okio-1.14.0.jar"/>
 	<classpathentry kind="lib" path="C:/sats-selenium/Selenium/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/satya/Downloads/junit.jar/junit.jar"/>
+	<classpathentry kind="lib" path="C:/Users/satya/Downloads/jar_files/hamcrest-2.2-rc1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/satya/Downloads/jar_files/hamcrest-core-2.2-rc1.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
